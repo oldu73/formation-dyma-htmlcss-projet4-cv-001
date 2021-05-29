@@ -1,0 +1,17 @@
+:root {
+  --font-family: "Mulish", sans-serif;
+  --light: #00c3ff;
+  --primary: #2071e7;
+  --dark: #2980b9;
+  --text: #333;
+  --background: #fafafa;
+  --hint: #999;
+  --border: #ddd;
+  /* --light: #e67e22;
+  --primary: #e74c3c;
+  --dark: #c0392b;
+  --text: #333;
+  --background: #fafafa;
+  --hint: #999;
+  --border: #ddd;
+ */ }
